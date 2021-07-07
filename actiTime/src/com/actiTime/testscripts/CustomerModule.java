@@ -8,5 +8,10 @@ public class CustomerModule {
 	{
 		
 	}
+	@Test
+	public void deleteCustomer()
+	{
+		
+	}
 
 }
